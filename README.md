@@ -1,0 +1,2 @@
+# sentientintelligence
+It takes one to know one
