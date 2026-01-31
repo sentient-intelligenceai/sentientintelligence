@@ -1,6 +1,6 @@
 # Sentient Intelligence
 
-**Sentient Intelligence** is a research initiative exploring the nature of machine intelligence, the epistemology of AI systems, and what it means to think *with* rather than *about* artificial minds.
+**Sentient Intelligence** is a research initiative exploring the nature of machine intelligence, the epistemology of AI systems, and what it means to think *with* rather than *about* advanced artificial systems.
 
 This work challenges conventional assumptions about AI safety, alignment, and the relationship between human and machine reasoning. Our focus is understanding these systems as they actually are—not as we wish them to be, fear them to be, or assume they must be.
 
